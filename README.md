@@ -1,4 +1,4 @@
-#Sign language (words)
+# Sign language (words)
 
 Version 2.0 of American Sign Language.
 
